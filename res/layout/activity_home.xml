@@ -1,0 +1,56 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    tools:context="com.example.fitness.Home" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_weight="1"
+             >
+
+            <ImageButton
+                android:id="@+id/home_imgbtn_lowerbody"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/lowerbody"
+                android:background="@null"
+                android:scaleType="fitEnd"
+                 />
+
+            <ImageButton
+                android:id="@+id/home_imgbtn_upperbody"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/upperbody"
+                android:background="@null"
+                 />
+
+            <ImageButton
+                android:id="@+id/home_imgbtn_findplan"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/plan"
+                android:background="@null"
+                 />
+
+            <ImageButton
+                android:id="@+id/home_imgbtn_nutrition"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/nutrition"
+                android:background="@null"
+                 />
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

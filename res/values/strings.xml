@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fitness</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_lowerbody_main">Lowerbody_main</string>
+    <string name="title_activity_upperbody_main">Upperbody_main</string>
+    <string name="title_activity_findplan_main">Findplan_main</string>
+    <string name="title_activity_nutrition_main">Nutrition_main</string>
+    <string name="title_activity_sub_cat">SubCat</string>
+
+    <string-array name="upperbody_titles">
+        <item>Front Dumbbell</item>
+        <item>Inverted Row</item>
+        <item>Triceps Dips</item>
+        <item>Barbell Shrug</item>
+        <item>Barbell Pullover</item>
+        <item>Incline Dumble Fly</item>
+        <item>Wide-grip pulldown</item>
+        <item>Barbell Bench Press</item>
+    </string-array>
+    <string-array name="upperbody_description">
+        <item>Front Dumbbell is...</item>
+        <item>Inverted Row is...</item>
+        <item>Triceps Dips is...</item>
+        <item>Barbell Shrug is...</item>
+        <item>Barbell Pullover is...</item>
+        <item>Incline Dumble Fly is...</item>
+        <item>Wide-grip pulldown is...</item>
+        <item>Barbell Bench Press is...</item>
+    </string-array>
+    <string-array name="lowerbody_titles">
+        <item>BodWeight Squat</item>
+        <item>BodyWeight Walking</item>
+        <item>Barbell Squat</item>
+        <item>Romania Deadlift</item>
+        <item>Barbell Step-up</item>
+        <item>Lying Leg Curls</item>
+    </string-array>
+    <string-array name="lowerbody_description">
+        <item>BodWeight Squat is...</item>
+        <item>BodyWeight Walking is...</item>
+        <item>Barbell Squat is...</item>
+        <item>Romania Deadlift is...</item>
+        <item>Barbell Step-up is...</item>
+        <item>ying Leg Curls is...</item>
+    </string-array>
+    <string-array name="plan_titles">
+        <item>Chiseled</item>
+        <item>Shortcut To Size</item>
+        <item>Arnolds Blueprint</item>
+        <item>Project Mass</item>
+        <item>Shortcut To shred</item>
+        <item>Squat Every Day</item>
+        <item>7-Days Begineer</item>
+    </string-array>
+    <string-array name="plan_description">
+        <item>Chiseled is...</item>
+        <item>Shortcut To Size is...</item>
+        <item>Arnolds Blueprint is...</item>
+        <item>Project Mass is...</item>
+        <item>Shortcut To shred is...</item>
+        <item>Squat Every Day is...</item>
+        <item>7-Days Begineer is...</item>
+    </string-array>
+    <string-array name="nutrition_titles">
+        <item>Sea Food</item>
+        <item>Salads</item>
+        <item>Smoothies/Shakes</item>
+        <item>Crock Pot</item>
+        <item>Paleo</item>
+        <item>Vegetarian And Vegan</item>
+        <item>Gluten-Free</item>
+        <item>low-Carb</item>
+    </string-array>
+    <string-array name="nutrition_description">
+        <item>Sea Food helps in..</item>
+        <item>Salads helps in..</item>
+        <item>Smoothies/Shakes helps in..</item>
+        <item>Crock Pot helps in..</item>
+        <item>Paleo helps in..</item>
+        <item>Vegetarian And Vegan helps in..</item>
+        <item>Gluten-Free helps in..</item>
+        <item>low-Carb helps in..</item>
+    </string-array>
+
+    <string name="title_activity_login">FitApp</string>
+    <string name="title_activity_complete_info">Complete_info</string>
+
+</resources>
